@@ -1,3 +1,7 @@
 # start part: value-test
 hacker code
 #end part: value-test
+
+<!-- start part: test-value 123 -->
+console.log('test1');
+<!-- end part: test-value 123 -->
